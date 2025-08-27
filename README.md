@@ -1,4 +1,5 @@
-## Hi there 👋
+# 19 year old IT student
+### something LinkedIn-esque will be here soon 😊
 
 <!--
 **AUT3/AUT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
