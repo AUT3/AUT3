@@ -1,5 +1,5 @@
-# 20 year old Finance and Accounting student
-**ALK** - focused on a quantitative approach to finance while learning fundamentals full-time
+# 20 year old Finance and Accounting student @ ALK
+Focused on a quantitative approach to finance while learning fundamentals full-time
 
 <!--
 **AUT3/AUT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
