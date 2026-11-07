@@ -1,4 +1,4 @@
-# 20 year old Finance and Accounting student @ ALK
+# 20 year old Finance and Accounting student @ Kozminski University
 Focused on a quantitative approach to finance while learning fundamentals full-time
 
 <!--
